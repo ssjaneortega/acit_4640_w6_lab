@@ -78,5 +78,6 @@ build {
 	    "sudo systemctl reload nginx",
 	    "installationnnnnnn  FINISHED"
 	]	
+  }
 }
 
