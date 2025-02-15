@@ -2,4 +2,4 @@
 
 Starter files for the week 6 lab, intro to Packer.
 
-Screenshot otw
+![Alt text](screenshot.png)
