@@ -2,4 +2,4 @@
 
 Starter files for the week 6 lab, intro to Packer.
 
-See lab instructions on D2L for details.
+Screenshot otw
